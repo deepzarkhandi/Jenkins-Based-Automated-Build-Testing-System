@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Running automated test...");
         System.out.println("TEST PASSED");
         System.out.println("Build completed successfully!");
+        System.out.println("Automatic Jenkins build test!");
     }
 }
 
